@@ -1,0 +1,57 @@
+Task:  Write down thoughts in the form of 2-3 questions.
+
+
+1) Can Machines think?
+
+A)  Is the way that we learn the best way to learn?  We are striving to teach computers to think like us, but seems to sensationalize the idea that human thinking is the best way to do it.  
+
+B) Since computational power seems to be the only thing holding back really advanced machine learning, what might happen in 10 years as our computers are getting more and more powerful?
+
+C) People are generally unaware of the ethics of machine policy and ethics, how can we rely on the general public to up to the task of writing rules for machines?
+
+2) How Far Are We From Achieving Artificial General Intelligence?
+How Far Are We From Achieving Artificial General Intelligence?
+
+A) If AI can be trained to identify sexual orientation, what is to stop people from training AI to identify things like class or caste?  Or a business classifying a person as hard-working or not?
+
+B) Since the goal of AI is to create any task a human can...how do we avoid instilling the kinds of biases and prejudices all people have and may or may not be aware of?
+
+C) Once general intelligence is achieved, what would surpassing what humans do look like?
+
+3) Humans' Fascination with Artificial General Intelligence
+
+A) How can we use machines to understand our own brain better?
+
+B) If we could have a symbiotic relationship with a machine, at some point could we "download" our consciousness to the cloud and live forever?
+
+4) Risks from Artificial Intelligence
+
+A) There are always going to be bad actors?  What if anything can we do about it?
+
+5) The American public is already worried about AI catastrophe
+
+A) Fear is one of our most powerful emotions, what methods can we employ to stop feeling afraid of everything?
+
+
+6) Youtube video: Is AI Safety a Pascals mugging?
+
+A) Considering the probability of something bad seems like a hypothetical exercise what is being done/ can be done concretely?
+
+7) Youtube Interview
+A) we make laws of what not to do because people do those things
+
+B) Learning is the automation of intellgence
+
+C) Neural networks can reason
+
+D) new ideas in memory networks
+
+E) interactive environment for training and testing 
+
+F) human intelligence is not generalized
+
+G) Machines pursue the objective to the point where they will break the game in order to win (ai learns hide and seek) what might this look like in the real world?
+
+H) being an idiot = working with the data you have
+
+
